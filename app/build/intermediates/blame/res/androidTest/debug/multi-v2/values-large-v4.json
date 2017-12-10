@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-large-v4/values-large-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/MaterialStyledDialogs-2.1.aar/18afe058e4c46d052cd0b77ba8a3c14c/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,111,161,219",
+                        "endColumns": "55,49,57,51",
+                        "endOffsets": "106,156,214,266"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "532,588,638,696",
+                        "endColumns": "55,49,57,51",
+                        "endOffsets": "583,633,691,743"
+                    }
+                },
+                {
+                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/res/values-large-v4/values-large-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,532,636",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,631,747"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,114,185,256,326,396,464,748,852",
+                        "endColumns": "58,70,70,69,69,67,67,103,115",
+                        "endOffsets": "109,180,251,321,391,459,527,847,963"
+                    }
+                }
+            ]
+        }
+    ]
+}

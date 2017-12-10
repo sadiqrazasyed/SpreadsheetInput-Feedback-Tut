@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-uk-rUA/values-uk-rUA.xml",
+            "map": [
+                {
+                    "source": "/Users/lukonet/.gradle/caches/transforms-1/files-1.1/MaterialAbout-0.1.9.aar/31e37b0c5782fed0e52454bcea94b4ef/res/values-uk-rUA/values-uk-rUA.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,105,151,196,238,300,342,411,473,535,613,669,730,788,834",
+                        "endColumns": "49,45,44,41,61,41,68,61,61,77,55,60,57,45,44",
+                        "endOffsets": "100,146,191,233,295,337,406,468,530,608,664,725,783,829,874"
+                    }
+                }
+            ]
+        }
+    ]
+}

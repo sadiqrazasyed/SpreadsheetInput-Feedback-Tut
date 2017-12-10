@@ -1,0 +1,178 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.github.javiersantos:MaterialStyledDialogs:2.1] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/MaterialStyledDialogs-2.1.aar/18afe058e4c46d052cd0b77ba8a3c14c/AndroidManifest.xml:2:1-11:12
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/d1858cbd3e03863f9fc2139ee58f9e05/AndroidManifest.xml:2:1-15:12
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/bd14f8ab52d40f3847199542743f8878/AndroidManifest.xml:6:1-16:12
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/b9e7f4be3a687852bf11b3c9f774b449/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/80b0ec54adc1bca0ef20935b68c0fe46/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/b62f8b005d803681ef2f73802ca9b5af/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/8764dc6480725e5001ee6a23e9987412/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d2ac77cc20eb87ef591e1ece77f62565/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/63e1d4ab9b0a309fcee3dd42090c4f27/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/a979642626593ec1d2c3a3a8edcd5347/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/36074b55dce997936705d2cec3202aaa/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/e3a33c82367649d56cb7303dfe40aeb7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc05af9171ccf6b74624e22186ca7316/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/7324d24f84e69c9796076ad537c7b331/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/a0592725c407f33eb82d6ddaab5a9817/AndroidManifest.xml:17:1-31:12
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:3:5-49
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:7:5-20:19
+MERGED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:29:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/d1858cbd3e03863f9fc2139ee58f9e05/AndroidManifest.xml:13:5-20
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/d1858cbd3e03863f9fc2139ee58f9e05/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/b9e7f4be3a687852bf11b3c9f774b449/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/b9e7f4be3a687852bf11b3c9f774b449/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/80b0ec54adc1bca0ef20935b68c0fe46/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/80b0ec54adc1bca0ef20935b68c0fe46/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/b62f8b005d803681ef2f73802ca9b5af/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/b62f8b005d803681ef2f73802ca9b5af/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/8764dc6480725e5001ee6a23e9987412/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/8764dc6480725e5001ee6a23e9987412/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d2ac77cc20eb87ef591e1ece77f62565/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d2ac77cc20eb87ef591e1ece77f62565/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/63e1d4ab9b0a309fcee3dd42090c4f27/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/63e1d4ab9b0a309fcee3dd42090c4f27/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/36074b55dce997936705d2cec3202aaa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/36074b55dce997936705d2cec3202aaa/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/e3a33c82367649d56cb7303dfe40aeb7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/e3a33c82367649d56cb7303dfe40aeb7/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc05af9171ccf6b74624e22186ca7316/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc05af9171ccf6b74624e22186ca7316/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/7324d24f84e69c9796076ad537c7b331/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/7324d24f84e69c9796076ad537c7b331/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/a0592725c407f33eb82d6ddaab5a9817/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/a0592725c407f33eb82d6ddaab5a9817/AndroidManifest.xml:29:5-20
+	android:supportsRtl
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.sadiqrazasyed.spreadsheetinput.MainActivity
+ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:13:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml:17:27-74
+uses-sdk
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.github.javiersantos:MaterialStyledDialogs:2.1] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/MaterialStyledDialogs-2.1.aar/18afe058e4c46d052cd0b77ba8a3c14c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.javiersantos:MaterialStyledDialogs:2.1] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/MaterialStyledDialogs-2.1.aar/18afe058e4c46d052cd0b77ba8a3c14c/AndroidManifest.xml:7:5-9:41
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/d1858cbd3e03863f9fc2139ee58f9e05/AndroidManifest.xml:8:5-11:75
+MERGED from [com.afollestad.material-dialogs:core:0.9.0.2] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/core-0.9.0.2.aar/d1858cbd3e03863f9fc2139ee58f9e05/AndroidManifest.xml:8:5-11:75
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/bd14f8ab52d40f3847199542743f8878/AndroidManifest.xml:12:5-14:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.7] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/library-1.1.7.aar/bd14f8ab52d40f3847199542743f8878/AndroidManifest.xml:12:5-14:41
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/b9e7f4be3a687852bf11b3c9f774b449/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/b9e7f4be3a687852bf11b3c9f774b449/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/80b0ec54adc1bca0ef20935b68c0fe46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/80b0ec54adc1bca0ef20935b68c0fe46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/b62f8b005d803681ef2f73802ca9b5af/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/b62f8b005d803681ef2f73802ca9b5af/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/8764dc6480725e5001ee6a23e9987412/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0-beta3] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.0-beta3.aar/8764dc6480725e5001ee6a23e9987412/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d2ac77cc20eb87ef591e1ece77f62565/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d2ac77cc20eb87ef591e1ece77f62565/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/63e1d4ab9b0a309fcee3dd42090c4f27/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/63e1d4ab9b0a309fcee3dd42090c4f27/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/a979642626593ec1d2c3a3a8edcd5347/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/a979642626593ec1d2c3a3a8edcd5347/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/36074b55dce997936705d2cec3202aaa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/36074b55dce997936705d2cec3202aaa/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/e3a33c82367649d56cb7303dfe40aeb7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/e3a33c82367649d56cb7303dfe40aeb7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc05af9171ccf6b74624e22186ca7316/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc05af9171ccf6b74624e22186ca7316/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/7324d24f84e69c9796076ad537c7b331/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/7324d24f84e69c9796076ad537c7b331/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/a0592725c407f33eb82d6ddaab5a9817/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/a0592725c407f33eb82d6ddaab5a9817/AndroidManifest.xml:21:5-23:58
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+		ADDED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lukonet/Documents/Open Source/SpreadsheetInput_Tut/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/336770aea31e5b776e386215f410333d/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/b9e7f4be3a687852bf11b3c9f774b449/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/b9e7f4be3a687852bf11b3c9f774b449/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/80b0ec54adc1bca0ef20935b68c0fe46/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/transition-25.3.0.aar/80b0ec54adc1bca0ef20935b68c0fe46/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/b62f8b005d803681ef2f73802ca9b5af/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.0.aar/b62f8b005d803681ef2f73802ca9b5af/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d2ac77cc20eb87ef591e1ece77f62565/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.0.aar/d2ac77cc20eb87ef591e1ece77f62565/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/63e1d4ab9b0a309fcee3dd42090c4f27/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/63e1d4ab9b0a309fcee3dd42090c4f27/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/a979642626593ec1d2c3a3a8edcd5347/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.0.aar/a979642626593ec1d2c3a3a8edcd5347/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/36074b55dce997936705d2cec3202aaa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.0.aar/36074b55dce997936705d2cec3202aaa/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/e3a33c82367649d56cb7303dfe40aeb7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.0.aar/e3a33c82367649d56cb7303dfe40aeb7/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc05af9171ccf6b74624e22186ca7316/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.0.aar/bc05af9171ccf6b74624e22186ca7316/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/7324d24f84e69c9796076ad537c7b331/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.0.aar/7324d24f84e69c9796076ad537c7b331/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/a0592725c407f33eb82d6ddaab5a9817/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/a0592725c407f33eb82d6ddaab5a9817/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.0] /Users/lukonet/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/b9fefe71fc68b6efc057b25d15ae757f/AndroidManifest.xml:26:9-47
