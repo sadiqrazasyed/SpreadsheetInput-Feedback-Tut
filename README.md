@@ -3,7 +3,7 @@
 Using this demo app, you will learn how to send app data (feedback) to a web spreadsheet (Google Sheets).
 
 # What we will do
-* Create a Google Form for reciving feedback
+* Create a Google Form for receiving feedback
 * Import the demo app 
 * Investigate the spreadsheet to find the input hooks
 * Post the user data from app to the spreadsheet using Retrofit
