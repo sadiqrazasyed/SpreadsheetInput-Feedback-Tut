@@ -2,6 +2,7 @@ package com.sadiqrazasyed.spreadsheetinput;
 
 import android.content.Intent;
 import android.net.Uri;
+import android.util.Patterns;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.design.widget.CollapsingToolbarLayout;
@@ -103,12 +104,21 @@ public class MainActivity extends AppCompatActivity {
 
         if (feedbackInputField.getText().toString().trim().length() == 0 && nameInputField.getText().toString().trim().length() == 0 && emailInputField.getText().toString().trim().length() == 0) {
             feedbackInputField.setError("Enter your feedback!");
-            nameInputField.setError("Enter a valid name!");
-            emailInputField.setError("Enter a valid email!");
+            nameInputField.setError("Enter your name!");
+            emailInputField.setError("Enter your email!");
             Toast.makeText(MainActivity.this, "Please fill in the required fields!", Toast.LENGTH_LONG).show();
             } else {
-                sendData();
+                validateEmail();
             }
+    }
+    
+    private void validateEmail() {
+        if (Patterns.EMAIL_ADDRESS.matcher(emailInputField.getText()).matches())
+            sendData();
+        else {
+            emailInputField.setError("Enter a valid email!");
+            Toast.makeText(SuggestPsycho.this, "Please fill in a Valid Email Address!", Toast.LENGTH_LONG).show();
+        }
     }
 
     private void sendData() { // Send feedback to Google Spreadsheet if text input is valid
